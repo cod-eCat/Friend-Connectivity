@@ -1,5 +1,3 @@
-package com.practice.friendConnectivity;
-
     /*
     Author @LwinPhyoAung
     addFriend -O(N)
