@@ -1,5 +1,3 @@
-package com.practice.friendConnectivity;
-
 public class Demo {
 
     public static void main(String[] args) {
